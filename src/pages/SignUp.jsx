@@ -1,7 +1,7 @@
 import React from "react";
 
 const SignUp = () => {
-  return <div></div>;
+  return <div>Signup page</div>;
 };
 
 export default SignUp;
